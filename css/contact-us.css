@@ -1,0 +1,14 @@
+.titlecontact{
+    background-color: #deefcf;
+    height: 70px;
+    width: 86.5%;
+    border-radius: 80px 0px 0 0;
+    position: relative;
+    left: 205px;
+}
+.texttitlecontact{
+    font-family: monospace;
+    position: absolute;
+    left: 485px;
+    top: 10px;
+}

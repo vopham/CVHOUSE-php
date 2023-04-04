@@ -1,0 +1,43 @@
+.nentitlesanpham{
+    background-color: #deefcf;
+    height: 70px;
+    width: 86.5%;
+    border-radius: 0px 80px 0 0;
+    position: relative;
+}
+.titlesanpham{
+    font-family: monospace;
+    font-family: monospace;
+    position: absolute;
+    left: 655px;
+    top: 10px;
+}
+.list-group-item-title {
+    color: black;
+    position: relative;
+    display: block;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: -1px;
+    background-color: #deefcf;
+    border: 1px solid rgba(0,0,0,.125);
+    text-decoration: none !important;
+    font-family: monospace;
+}
+.list-group-item2{
+    color: black;
+    position: relative;
+    display: block;
+    padding: .75rem 1.25rem;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    font-family: monospace;
+}
+.list-group-item2:hover{
+    background-color: #deefcf;
+    text-decoration: none;
+    color: black;
+}
+.nextpage{
+    margin-left: 230px;
+}

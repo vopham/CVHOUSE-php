@@ -1,0 +1,8 @@
+.titlequanli{
+    font-size: 45px;
+    font-family: monospace;
+}
+.texthover:hover{
+    text-decoration: none;
+    background-color: beige;
+}
